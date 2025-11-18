@@ -1,5 +1,3 @@
-<img width="768" height="446" alt="Screenshot 2025-11-18 204159" src="https://github.com/user-attachments/assets/84479a6f-7e30-4524-b34b-3a5ae5c108b4" />### study-of-basic-gates
-
 **AIM:** 
 
 To study and verify the truth table of logic gates in Quartus II using Verilog programming.
